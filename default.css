@@ -1,0 +1,26 @@
+html, body, p{
+    margin: 0;
+    padding: 0;
+    font-family: OneNikeCurrency,Helvetica,Arial,'Heiti SC','ST Heiti',华文黑体,'Microsoft YaHei',雅黑体,SimHei,黑体,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+body, div, ul, li, a{
+    font-size: 0;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ul, li{
+    border: 0;
+    outline: 0;
+}
+div, input{
+    border: 0;
+    outline: none;
+}
+a, a:link, a:visited, a:hover, a:active{
+    text-decoration: none;
+/*    color: #a3a3a3;*/
+}
