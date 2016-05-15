@@ -314,3 +314,9 @@ footer{
     font-size: 16px;
     color: #a3a3a3;
 }
+
+@media screen and (min-width:1280px){
+    .product-wrap{
+        left: 18%;
+    }
+}
